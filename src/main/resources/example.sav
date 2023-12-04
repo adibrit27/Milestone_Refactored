@@ -1,0 +1,22 @@
+EdgeConvert Save File
+Table: 1
+{
+    TableName
+    NativeFields: 2 3 4
+    RelatedTables: 2 3
+    RelatedFields: 5 6 7
+}
+Table: 2
+{
+    TableName
+    NativeFields: 5 6 7
+    RelatedTables: 1 3
+    RelatedFields: 2 3 4
+}
+Table: 3
+{
+    TableName
+    NativeFields: 8 9
+    RelatedTables: 1 2
+    RelatedFields: 10 11
+}
